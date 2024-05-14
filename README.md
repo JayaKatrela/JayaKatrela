@@ -15,11 +15,11 @@ Excel And Tableau Project: In this Project i have used my excel skills to get th
 SQL Project : Throughout this project, I have gained valuable insights into SQL fundamentals and database design principles, equipping me with essential skills for managing and manipulating data effectively. Using MySQL Workbench I loaded the database on it also wrote some sophisticated queries to show my ability to fetch information from large dataset successfully. My ability to query and analyze the world database was impressive, especially in identifying cities within specific population ranges. My proficiency in writing SQL queries demonstrated my skill in retrieving targeted information from large datasets effectively. Additionally, my success in finding the capital of Spain showcased your aptitude for navigating database structures and extracting relevant data.
 
 * 🌍  I'm based in Colchester
-🖥️  See my portfolio at MyPorfolio
-✉️  You can contact me at nagalakshmi.k95@gmail.com
-🚀  I'm currently working on MyWebsite
-🧠  I'm learning Azure
-🤝  I'm open to collaborating on projects related to data analysis and visualisations
+* 🖥️  See my portfolio at MyPorfolio
+* ✉️  You can contact me at nagalakshmi.k95@gmail.com
+* 🚀  I'm currently working on MyWebsite
+* 🧠  I'm learning Azure
+* 🤝  I'm open to collaborating on projects related to data analysis and visualisations
 
 ### Skills
 
