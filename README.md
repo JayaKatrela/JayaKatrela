@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jaya Sai Naga Lakshmi Katrela
 =====================================================================================================================================================
 
-Data Analyst
+Data Engineer
 ------------
 
 Hi there! 👋 Welcome to my GitHub profile! I'm Jaya, I have a degree in Computer Science Engineer(B.Tech) in 2016. Currently, I'm enrolled in a data technician bootcamp with Just IT, where I'm refining my technical skills and gaining expertise in various tools and technologies.
