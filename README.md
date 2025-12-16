@@ -17,6 +17,7 @@ SQL Project : Throughout this project, I have gained valuable insights into SQL 
 * 🌍  I'm based in Colchester
 * 🖥️  See my portfolio at MyPorfolio
 * ✉️  You can contact me at nagalakshmi.k95@gmail.com
+* You can contact me at t_jayasainagalakshmi.katrela@viasat.com
 * 🚀  I'm currently working on MyWebsite
 * 🧠  I'm learning Azure
 * 🤝  I'm open to collaborating on projects related to data analysis and visualisations
